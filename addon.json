@@ -1,0 +1,22 @@
+ {                                                                                                                                                                                                        
+    "author": "nial",
+    "website": "linkomanija.net",
+    "name": "linkomanija.net",
+    "addon": "linkomanija.net.php",
+    "class": "linkomanija",
+    "hosts": [
+        "linkomanija.net",
+        "www.linkomanija.net"
+    ],
+    "domain": "linkomanija.net",
+    "version": 100,
+    "interface": [
+        "ISearch"
+    ],
+    "qpkg_dependencies": {
+        "DownloadStation": "5.0.1"
+    },
+    "description": {
+        "ENG": "linkomanija.net private Lithuanian torrent tracker search provider. Requires valid account credentials."
+    }
+}
